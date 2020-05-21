@@ -9,7 +9,7 @@ Clone this GitHub repository.
 # Steps to compile merkleTree.js
 
   - Local dependencies
-    - MerkleTree.js
+    - [MerkleTree.js](https://github.com/miguelmota/merkletreejs)
     - Crypto-JS
     ```sh
     $ npm i
