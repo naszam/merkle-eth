@@ -25,7 +25,13 @@ Clone this GitHub repository.
    ```sh
    $ node merkleTree.js
    ```
-    It will generate proof.json
-    
+
+It will generate root hash, proof.json and check for failure:
+
+```
+Root Hash: c8d6d68bda7941a2ef189276b0e2beba779de1725f3615aa26ba0e4fa00dd678d61a0124b73d2721511b8047c378d3300a150bfdaf4c0fa9ce072625de070c5a
+
+Verify: true
+```    
   
 
