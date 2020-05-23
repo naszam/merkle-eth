@@ -1,0 +1,19 @@
+{
+  "name": "merkle-eth",
+  "version": "1.0.0",
+  "description": ">Merkle Tree to generate Root and Proof of Ethereum Addresses",
+  "main": "merkleTree.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naszam/merkle-eth.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naszam/merkle-eth/issues"
+  },
+  "homepage": "https://github.com/naszam/merkle-eth#readme"
+}
