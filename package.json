@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/naszam/merkle-eth/issues"
   },
-  "homepage": "https://github.com/naszam/merkle-eth#readme"
+  "homepage": "https://github.com/naszam/merkle-eth#readme",
+  "dependencies": {
+    "merkletreejs": "^0.1.11"
+  }
 }
